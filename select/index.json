@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Cinderella",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-01-12T09:59:04.694359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Cinderella",
+      "artist": "Suzy Bogguss",
+      "has_synced": true,
+      "path": "select/01_Hey_Cinderella_Suzy_Bogguss.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cinderella Man",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Cinderella_Man_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cinderella",
+      "artist": "Bladee feat. Ecco2k",
+      "has_synced": true,
+      "path": "select/03_Cinderella_Bladee_feat._Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cinderella",
+      "artist": "Bladee & Ecco2k",
+      "has_synced": true,
+      "path": "select/04_Cinderella_Bladee_&_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cinderella Story",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/05_Cinderella_Story_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cinderella",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/06_Cinderella_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cinderella Stay Awhile",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_Cinderella_Stay_Awhile_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Death of Cinderella",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/08_Death_of_Cinderella_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cinderella Smile",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/09_Cinderella_Smile_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cinderella",
+      "artist": "Diana Vickers",
+      "has_synced": true,
+      "path": "select/10_Cinderella_Diana_Vickers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cinderella (acoustic version)",
+      "artist": "Diana Vickers",
+      "has_synced": false,
+      "path": "select/11_Cinderella_(acoustic_version)_Diana_Vickers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cinderella",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/12_Cinderella_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cinderella Man",
+      "artist": "Rush",
+      "has_synced": true,
+      "path": "select/13_Cinderella_Man_Rush.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cinderella",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_Cinderella_TOMOO.txt"
+    }
+  ]
+}
